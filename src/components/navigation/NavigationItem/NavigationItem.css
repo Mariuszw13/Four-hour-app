@@ -1,0 +1,13 @@
+.navigationItem {
+    width: 15vw;
+}
+
+.navigationItem a {
+    text-decoration: none;
+    color: black;
+}
+
+.navigationItem a:hover,
+.navigationItem a:active {
+    color: #fa923f;
+}
